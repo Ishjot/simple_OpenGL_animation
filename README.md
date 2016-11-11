@@ -9,6 +9,8 @@ This code was written and tested on the instructional machines at CSIL at UCSB a
 2. `./anim_cubes`
 
 #####*Example Screenshot*
-![alt text]()
+If everything went well with the setup and excecution of the code, you should see something like the following image, but animated! Feel free to use your mouse to move around in the scene.
+![alt text](https://github.ucsb.edu/rockysikem/cs180_hw2/blob/master/example_screenshot.png "Example")
 
-[logo] = google.com
+######*Future Work*
+This is a very simple OpenGL project. Next steps could include allowing movement in more than just the xy plane, texture mapping for the cubes and numbers, and click-to-drag functionality for the objects in the scene.
