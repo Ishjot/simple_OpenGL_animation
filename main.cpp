@@ -1072,26 +1072,6 @@ void drawNumbers() {
     glPopMatrix();
 }
 
-/*void drawFace(int face) {
-
-    glPushMatrix();
-
-    if(face == 0) {
-        glTranslatef(0.0, 0.0, cubeScaleZ);
-        glScalef(faceShapeScaleX, faceShapeScaleY, faceShapeScaleZ);
-        draw3DTriangle();
-    }
-
-    else if(face == 1) {
-        glTranslatef(0.0, 0.0, cubeScaleZ);
-        glScalef(faceShapeScaleX, faceShapeScaleY, faceShapeScaleZ);
-        drawCube(2);
-    }
-
-    glPopMatrix();
-
-}*/
-
 //Display Function
 void display(void){
 
@@ -1207,7 +1187,6 @@ int main(int argc, char* argv[]){
     //Turn on lighting
     glEnable(GL_LIGHTING);
     glEnable(GL_LIGHT0);
-    //glLightfv(GL_LIGHT0, GL_POSITION, lightpos);
 
     //Turn on colors
     glEnable(GL_COLOR_MATERIAL);
