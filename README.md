@@ -8,4 +8,7 @@ This code was written and tested on the instructional machines at CSIL at UCSB a
 1. `make all`
 2. `./anim_cubes`
 
-#####*Example*
+#####*Example Screenshot*
+![alt text]()
+
+[logo] = google.com
