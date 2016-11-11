@@ -1,4 +1,4 @@
-# cs180_hw2
+# Simple OpenGL Animation
 Project #2 for CS180, Fall 2016, UCSB, Ishjot Walia
 
 #####*Requirements*
